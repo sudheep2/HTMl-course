@@ -11,12 +11,12 @@
 
 .navbar-brand{
   font-size: 35px;
-  color: white;
+  color: rgb(136, 135, 135);
   padding-left: 25px;
 }
 
 .navbar-brand:hover{
-	color: white;
+	color: rgb(143, 140, 140);
 }
 
 .nav{
@@ -32,19 +32,19 @@
 }
 
 .navbar-toggle{
-	border: 2px solid white;
+	border: 2px solid rgb(122, 122, 122);
 	margin-right: 25px;
 }
 
 .icon-bar{
-	background-color: white;
+	background-color: rgb(143, 141, 141);
 }
 
 
 .main-title{
   margin-bottom: 15px;
   text-align: center;
-  color: #ff4532;
+  color: #f39b16;
   font-size: 50px;
   font-family: "Comic Sans MS", cursive, sans-serif;
   font-weight: bold;
